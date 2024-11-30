@@ -52,3 +52,13 @@ Certifique-se de ter instalado:
 3. Escoragem 📈
 
 Geração de probabilidades de "mau" para cada cliente.
+
+---
+
+## 🎥 Demonstração
+
+
+https://github.com/user-attachments/assets/edcac6f1-78db-467c-bd33-aa6c7bdeac91
+
+
+
